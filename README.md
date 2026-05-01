@@ -35,3 +35,9 @@ topic = "Quantum computing"   # any Wikipedia article title
 
 <img width="767" height="228" alt="image" src="https://github.com/user-attachments/assets/91624c37-9f13-49d5-9b03-6e24b248b44c" />
 
+</br>
+
+<img width="754" height="90" alt="image" src="https://github.com/user-attachments/assets/fc9cddb4-08ec-4cc3-b705-255bb5c2da9c" />
+
+</br>
+
