@@ -26,3 +26,12 @@ Change the topic on the last line of `main.py`:
 ```python
 topic = "Quantum computing"   # any Wikipedia article title
 ```
+
+##
+
+<img width="791" height="356" alt="image" src="https://github.com/user-attachments/assets/218155f7-8822-4063-b323-27c75dccf584" />
+
+</br>
+
+<img width="767" height="228" alt="image" src="https://github.com/user-attachments/assets/91624c37-9f13-49d5-9b03-6e24b248b44c" />
+
